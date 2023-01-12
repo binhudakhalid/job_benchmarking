@@ -1,0 +1,10 @@
+| name          |  JobID|
+|---------------|-------|
+|get with lock  | 2776249|
+|get with fence | 2776252|
+|put with lock       |  2776277|
+|put with fence     |  2776278|
+|get with accumulate  lock    ||
+|get with accumulate get ||
+|accumulate with lock ||
+|accumulate with fence ||
