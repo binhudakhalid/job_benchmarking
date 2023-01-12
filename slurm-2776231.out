@@ -1557,3 +1557,2533 @@ size (bytes),iterations,min_time (seconds),max_time (seconds),avg_time (seconds)
 8192,262144,0.0018761993411678113,0.00187649982519094,0.0018763785984176667
 16384,262144,0.006096549244109756,0.0060971086530771865,0.006096914950982739
 32768,262144,0.0162344177123038,0.01623504519833874,0.016234793557926428
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 2776231 ON n2cn0245 CANCELLED AT 2023-01-12T02:52:47 DUE TO TIME LIMIT ***
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+unknown function (ip: (nil))
+Allocations: 16985428 (Pool: 16984450; Big: 978); GC: 13
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+slurmstepd: error: *** STEP 2776231.0 ON n2cn0245 CANCELLED AT 2023-01-12T02:52:47 DUE TO TIME LIMIT ***
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+unknown function (ip: (nil))
+Allocations: 16985427 (Pool: 16984450; Big: 977); GC: 13
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+unknown function (ip: 0x7ffc699a4eb7)
+unknown function (ip: (nil))
+unknown function (ip: (nil))
+Allocations: 16985431 (Pool: 16984450; Big: 981); GC: 13
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14793e1c6688)
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14f625ab3688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1479cf7e6688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x151729cc6688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14c520b3c688)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+unknown function (ip: 0x1481c90575a0)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14ed33768688)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14f985dad688)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14fc8fae5688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x145d0e2fb688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x146ec3ba7698)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+unknown function (ip: 0x7fffb98d6537)
+unknown function (ip: (nil))
+unknown function (ip: (nil))
+Allocations: 16985430 (Pool: 16984451; Big: 979); GC: 13
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14f5f8a76688)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+unknown function (ip: (nil))
+Allocations: 16985431 (Pool: 16984452; Big: 979); GC: 13
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+unknown function (ip: (nil))
+Allocations: 16985431 (Pool: 16984453; Big: 978); GC: 13
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+mca_pml_ucx_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_pml_ucx.so (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+unknown function (ip: 0x15177d3885a0)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+unknown function (ip: 0x7ffef469ec2f)
+unknown function (ip: (nil))
+Allocations: 16985428 (Pool: 16984449; Big: 979); GC: 13
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x15236ef28688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1492f67e3688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1505f73ee688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14dc8d26b688)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1548b2460688)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x151981955688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1455a982a688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x148f3e22c688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x151597de1688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x147a9c046688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x147f0f5cc688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14628dacd688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1511c146e688)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14c57d5c9688)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14d350fac688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x151c093ea688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1524fc962688)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x145fb25d2688)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x150600b64688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14e23f45f688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14b6ee3e7688)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x155188161688)
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1545dec86688)
+__memcpy_avx_unaligned_erms at /lib64/libc.so.6 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:286 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:367
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:286 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:345
+unknown function (ip: (nil))
+Allocations: 16985426 (Pool: 16984450; Big: 976); GC: 13
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:286 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+ucs_arbiter_dispatch at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/ucs/datastruct/arbiter.h:385 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:363
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+unknown function (ip: 0x14efe793a6e0)
+unknown function (ip: (nil))
+Allocations: 16985432 (Pool: 16984452; Big: 980); GC: 13
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_fifo_window_adjust at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:320 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:360
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:345
+unknown function (ip: (nil))
+Allocations: 16985432 (Pool: 16984452; Big: 980); GC: 12
+uct_mm_iface_fifo_has_new_data at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:285 [inlined]
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ucs_arbiter_dispatch at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/ucs/datastruct/arbiter.h:385 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:363
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14b178878688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1498af7f4688)
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14f5f8a74488)
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ucs_callbackq_dispatch at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/ucs/datastruct/callbackq.h:211 [inlined]
+uct_worker_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/api/uct.h:2589 [inlined]
+ucp_worker_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/ucp/core/ucp_worker.c:2636
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x1545dec84488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14e23f45d488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14e23f459e3d)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_request_default_wait at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_sendrecv_actual at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+ompi_coll_base_allgather_intra_neighborexchange at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14f5f8a70e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x1543bd410688)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x153d20e94688)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+unknown function (ip: 0x1545dec80e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14f985dab488)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14fc8fae3488)
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x145d0e2f9488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14fc8fadfe3d)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x145d0e2f5e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14f985da7e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+uct_mm_iface_poll_fifo at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:292 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:354
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14b178876488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x146ec3ba5488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14b178872e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x146ec3ba1e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+uct_mm_iface_fifo_window_adjust at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:320 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:360
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x151729cc4488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x151729cc0e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+jl_apply at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/julia.h:1839 [inlined]
+do_call at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:126
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+jl_apply at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/julia.h:1839 [inlined]
+do_call at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:126
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:371
+unknown function (ip: 0x14712e995688)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x1498af7f2488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x1498af7eee3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x1548b245e488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x1548b245ae3d)
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x147f0f5ca488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14628dacb488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x147f0f5c6e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14628dac7e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+jl_apply at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/julia.h:1839 [inlined]
+do_call at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:126
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x1524fc960488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x1524fc95ce3d)
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x15236ef26488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x15236ef22e3d)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14c57d5c7488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14c57d5c3e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+jl_apply at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/julia.h:1839 [inlined]
+do_call at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:126
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x1511c146c488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x1511c1468e3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+osu_allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:27
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x14b6ee3e5488)
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x15518815f488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x14b6ee3e1e3d)
+run_imb_collective at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/imb_collective.jl:31
+unknown function (ip: 0x150600b62488)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x15518815be3d)
+eval_value at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:215
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+benchmark at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPIBenchmarks/Cvsm0/src/osu_allgather.jl:36
+unknown function (ip: 0x150600b5ee3d)
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+eval_value at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:215
+_jl_invoke at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2365 [inlined]
+ijl_apply_generic at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/gf.c:2547
+jl_apply at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/julia.h:1839 [inlined]
+do_call at /cache/build/default-amdci5-6/julialang/julia-release-1-dot-8/src/interpreter.c:126
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+opal_progress_events.isra.0 at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_coll_tuned_allgather_intra_dec_fixed at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/openmpi/mca_coll_tuned.so (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+MPI_Allgather at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libmpi.so (unknown line)
+
+signal (15): Terminated
+in expression starting at /scratch/hpc-prf-mpibj/com_j_osu/e1_j_allgather.jl:2
+MPI_Allgather at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/api/generated_api.jl:252 [inlined]
+Allgather! at /upb/departments/pc2/groups/hpc-prf-mpibj/khalids/.julia/packages/MPI/tJjHF/src/collective.jl:367
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ompi_sync_wait_mt at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+opal_progress at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+unknown function (ip: (nil))
+unknown function (ip: (nil))
+Allocations: 16985429 (Pool: 16984450; Big: 979); GC: 13
+opal_timer_linux_get_cycles_sys_timer at /opt/software/pc2/EB-SW/software/OpenMPI/4.1.4-GCC-11.3.0/lib/libopen-pal.so.40 (unknown line)
+ucs_arbiter_dispatch at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/ucs/datastruct/arbiter.h:385 [inlined]
+uct_mm_iface_progress at /dev/shm/UCX/1.12.1/GCCcore-11.3.0/ucx-1.12.1/src/uct/sm/mm/base/mm_iface.c:363
