@@ -3106,3 +3106,15 @@ cpu-bind=MASK - n2cn0944, task 383 127 [2189314]: mask |--------|--------||-----
 32                    152.28            115.92            182.14      262144
 64                    275.70            211.12            334.27      262144
 128                   502.48            405.20            622.44      262144
+256                   999.90            790.49           1227.69      262144
+512                   701.98            521.13            935.00      262144
+1024                 3917.79           3492.02           4419.76      262144
+2048                 8213.67           6927.45           9249.77      262144
+4096                 1332.89           1183.93           1505.86      262144
+8192                 1932.19           1834.12           2094.89      262144
+16384                5669.80           5468.29           5888.19      262144
+32768               15272.22          14587.91          15856.30      262144
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 2776232 ON n2cn0245 CANCELLED AT 2023-01-12T07:33:19 DUE TO TIME LIMIT ***
+Warning! Limiting max message size to: 1048576. Increase -M, --mem-limit for higher message sizes.slurmstepd: error: *** STEP 2776232.1 ON n2cn0245 CANCELLED AT 2023-01-12T07:33:19 DUE TO TIME LIMIT ***
+slurmstepd: error: Detected 1 oom-kill event(s) in StepId=2776232.batch. Some of your processes may have been killed by the cgroup out-of-memory handler.
