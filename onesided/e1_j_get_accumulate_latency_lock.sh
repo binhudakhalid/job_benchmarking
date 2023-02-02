@@ -7,13 +7,13 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --ntasks-per-node=1      ## [NUMBER_OF_MPI_RANKS_PER_NODE]
 #SBATCH --exclusive
-#SBATCH -t 04:00:00
+#SBATCH -t 20:00:00
 
 module reset
 module load lang                   # loading the gateway module
 module load JuliaHPC               # loading the latest JuliaHPC
 
-srun -n 2 --exclusive julia --project e1_j_get_accumulate_latency_fence.jl
+srun -n 2 --exclusive julia --project e1_j_get_accumulate_latency_lock.jl
 srun -n 2 --exclusive /scratch/hpc-prf-mpibj/com/osu-micro-benchmarks-7.0.1/c/mpi/one-sided/osu_get_acc_latency -s lock -w create -m 2097152 -i 262144
 
 ###ml toolchain intel

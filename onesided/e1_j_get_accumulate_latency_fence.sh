@@ -7,7 +7,7 @@
 #SBATCH --cpus-per-task=1
 #SBATCH --ntasks-per-node=1      ## [NUMBER_OF_MPI_RANKS_PER_NODE]
 #SBATCH --exclusive
-#SBATCH -t 04:00:00
+#SBATCH -t 08:00:00
 
 module reset
 module load lang                   # loading the gateway module
