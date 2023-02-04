@@ -30,3 +30,7 @@ size (bytes),iterations,time (seconds)
 65536,262144,160.40768056106566
 131072,262144,315.54066115951537
 262144,262144,630.7253804893493
+524288,262144,1274.9623851356507
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** JOB 2884983 ON n2cn0186 CANCELLED AT 2023-02-02T11:41:39 ***
+slurmstepd: error: *** STEP 2884983.0 ON n2cn0186 CANCELLED AT 2023-02-02T11:41:39 ***

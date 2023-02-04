@@ -2,5 +2,5 @@
 
 | name          |  JobID|  status|
 |---------------|-----------|-------|
-|bandwidth|  2776299 |  |
-|lantency|   2776300|  |
+|bandwidth|  2776299 |  | Done
+|lantency|   2776300|  | Done

@@ -5,16 +5,13 @@
 #SBATCH -p normal
 #SBATCH -N 4                       ## [NUMBER_OF_NODE]
 #SBATCH --cpus-per-task=1
-#SBATCH --ntasks-per-node=128      ## [NUMBER_OF_MPI_RANKS_PER_NODE]
+#SBATCH --ntasks-per-node=32      ## [NUMBER_OF_MPI_RANKS_PER_NODE]
 #SBATCH --exclusive
-#SBATCH -t 04:40:00
+#SBATCH -t 40:40:00
 
 module reset
 module load lang                   # loading the gateway module
 module load JuliaHPC               # loading the latest JuliaHPC
 
-srun -n 512 --exclusive julia --project e1_j_alltoallv.jl
-srun -n 512 --exclusive /scratch/hpc-prf-mpibj/com/osu-micro-benchmarks-7.0.1/c/mpi/collective/osu_alltoallv -m 2097152 -i 262144 -f
-
-ml toolchain intel
-srun -n 512 --exclusive /scratch/hpc-prf-mpibj/com/imb/src_c/IMB-MPI1 alltoallv -iter 262144 -iter_policy off -npmin 512 -time 72000
+srun -n 128 --exclusive julia --project e1_j_alltoallv.jl
+srun -n 128 --exclusive /scratch/hpc-prf-mpibj/com/osu-micro-benchmarks-7.0.1/c/mpi/collective/osu_alltoallv -m 2097152 -i 183500 -f
