@@ -18,8 +18,8 @@ Maximum message size: 2097152
 
 |allgather|  2776231 | seems like going to fail ->  2885006 | 2886555 (128)
 |gather| 2776239 |time limit erorr -> 2885009| not enought memory ->2886553(128)
-|alltoall| 2776234 -> 2885011 ||  -> taking alot time going to fail due to time  (ibwarn: [37189] _do_madrpc: recv failed: Connection timed out) -> 2886556
-|scatterv| 2776243|slurm-2776243.out -> timeout start with 1 hr plus ->  2885013| Inshallah
+|alltoall| 2776234 -> 2885011 ||  -> taking alot time going to fail due to time  (ibwarn: [37189] _do_madrpc: recv failed: Connection timed out) -> 2886556 ->partial
+|scatterv| 2776243|slurm-2776243.out -> timeout start with 1 hr plus ->  2885013| Inshallah -> done
 |alltoallv|2776235 ->  2885018 || too slow decerease the itratio  -> 2886557 (128)(0.7iteration)
 
 
