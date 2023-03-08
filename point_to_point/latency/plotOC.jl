@@ -31,7 +31,7 @@ function plot_bench(name::String; xlims=(1, 2 ^ 23), ylims=(Inf, Inf))
     #title = "Latency of MPI Put with fence  @ Nocuta (4 nodes, 512 ranks)",
 
     p = plot(;
-             title = "Latency of point to point latency @ Nocuta (2 nodes, 1 rank each)",
+             title = "Point to point latency @ Nocuta (2 nodes, 1 rank each)",
              titlefont=font(8),
              xlabel = "message size",
              xscale = :log10,
@@ -60,4 +60,4 @@ end
 
 #plot_bench("Allreduce"; xlims=(4, 2 ^ 22.5), ylims=(10 ^ -6, Inf))
 #plot_bench("Gatherv"; xlims=(1, 2 ^ 20.5))
-plot_bench("ALLReduce"; xlims=(4, 2 ^ 27), ylims=(Inf, Inf))
+plot_bench("ALLReduce"; xlims=(4, 2 ^ 22), ylims=(Inf, Inf))
